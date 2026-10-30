@@ -2,7 +2,7 @@
  * @file src/components/Modal.jsx
  * @author LongHP CE190280
  * @description Hộp thoại tái sử dụng cho biểu mẫu Create/Update và xác nhận xóa.
- * @remarks Chú thích phục vụ học tập; giữ nguyên logic nghiệp vụ của source gốc.
+
  */
 
 // Nạp các thư viện hoặc component cần dùng; import không tự chạy UI.

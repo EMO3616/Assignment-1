@@ -2,7 +2,7 @@
  * @file src/data/storage.js
  * @author LongHP CE190280
  * @description Đọc, lưu và đặt lại dữ liệu mẫu trong localStorage; cung cấp khóa session.
- * @remarks Chú thích phục vụ học tập; giữ nguyên logic nghiệp vụ của source gốc.
+
  */
 
 // Nạp các thư viện hoặc component cần dùng; import không tự chạy UI.

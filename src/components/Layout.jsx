@@ -2,7 +2,7 @@
  * @file src/components/Layout.jsx
  * @author LongHP CE190280
  * @description Bố cục quản trị dùng chung: thanh menu, header, nội dung hiện tại và đăng xuất.
- * @remarks Chú thích phục vụ học tập; giữ nguyên logic nghiệp vụ của source gốc.
+
  */
 
 // Nạp các thư viện hoặc component cần dùng; import không tự chạy UI.

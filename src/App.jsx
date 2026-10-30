@@ -2,7 +2,7 @@
  * @file src/App.jsx
  * @author LongHP CE190280
  * @description Component gốc: quản lý phiên đăng nhập, dữ liệu dùng chung, kiểm tra hợp lệ, CRUD và chọn trang hiển thị.
- * @remarks Chú thích phục vụ học tập; giữ nguyên logic nghiệp vụ của source gốc.
+
  */
 
 // Nạp các thư viện hoặc component cần dùng; import không tự chạy UI.

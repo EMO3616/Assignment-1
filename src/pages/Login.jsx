@@ -2,7 +2,7 @@
  * @file src/pages/Login.jsx
  * @author LongHP CE190280
  * @description Trang đăng nhập mẫu: nhận tài khoản Admin/Admin, kiểm tra dữ liệu và phát sự kiện đăng nhập.
- * @remarks Chú thích phục vụ học tập; giữ nguyên logic nghiệp vụ của source gốc.
+
  */
 
 // Nạp các thư viện hoặc component cần dùng; import không tự chạy UI.

@@ -2,7 +2,7 @@
  * @file src/data/seed.js
  * @author LongHP CE190280
  * @description Khai báo tập dữ liệu mẫu gồm Category, News Article và User.
- * @remarks Chú thích phục vụ học tập; giữ nguyên logic nghiệp vụ của source gốc.
+
  */
 
 // Xuất giá trị/component để module khác có thể import.
